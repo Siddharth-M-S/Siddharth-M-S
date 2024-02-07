@@ -21,7 +21,7 @@
 
 ### 💻 Workspace Spec
 
-![Hareesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=hareesh-r&theme=dark&show_icons=true&&hide=issues,contribs)
+
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Siddharth_M_S?theme=dark&font=Merienda&ext=heatmap)
 
