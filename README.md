@@ -22,7 +22,9 @@ siddharth-m-s)
 
 ### 💻 Workspace Spec
 
-
+![siddharth-m-s's Stats](https://github-readme-stats.vercel.app/api?username=siddharth-m-s&theme=dark&show_icons=true&hide_border=true&count_private=true)
+![siddharth-m-s's Streak](https://github-readme-streak-stats.herokuapp.com/?user=siddharth-m-s&theme=dark&hide_border=true)
+![siddharth-m-s's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=siddharth-m-s&theme=dark&show_icons=true&hide_border=true&layout=compact)
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Siddharth_M_S?theme=dark&font=Merienda&ext=heatmap)
 
