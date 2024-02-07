@@ -21,10 +21,10 @@
 
 ### 💻 Workspace Spec
 
-![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/siddharth-m-s?cardType=github&theme=dark&preferLogin=false)](https://git.io/awesome-stats-card)<br>
+![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/siddharth-m-s?cardType=github&theme=dark&preferLogin=false)]<br>
 ![siddharth-m-s's Streak](https://github-readme-streak-stats.herokuapp.com/?user=siddharth-m-s&theme=dark&hide_border=true)<br>
 ![siddharth-m-s's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=siddharth-m-s&theme=dark&show_icons=true&hide_border=true&layout=compact)<br>
-
+---
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Siddharth_M_S?theme=dark&font=Merienda&ext=heatmap)
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=siddharth-m-s&bg_color=050505&color=f4f0f4&line=0bd52d&point=d2dbdb&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
