@@ -21,7 +21,7 @@
 
 ### 💻 Workspace Spec
 
-![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/siddharth-m-s?cardType=github&theme=dark&preferLogin=false)]<br>
+![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/siddharth-m-s?cardType=github&theme=dark&preferLogin=false)<br>
 ![siddharth-m-s's Streak](https://github-readme-streak-stats.herokuapp.com/?user=siddharth-m-s&theme=dark&hide_border=true)<br>
 ![siddharth-m-s's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=siddharth-m-s&theme=dark&show_icons=true&hide_border=true&layout=compact)<br>
 ---
