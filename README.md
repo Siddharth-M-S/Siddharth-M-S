@@ -27,4 +27,3 @@
 ---
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Siddharth_M_S?theme=dark&font=Merienda&ext=heatmap)
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=siddharth-m-s&bg_color=050505&color=f4f0f4&line=0bd52d&point=d2dbdb&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
